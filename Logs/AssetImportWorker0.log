@@ -1,0 +1,260 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 15063.674; Version 1703; 64bit' Language: 'es' Physical Memory: 16313 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\UnityEditor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Users/Mati/Documents/GitUnity/IAP-2021-Patrones
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50770
+Successfully changed project path to: D:/Users/Mati/Documents/GitUnity/IAP-2021-Patrones
+D:/Users/Mati/Documents/GitUnity/IAP-2021-Patrones
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path E:/UnityEditor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Users/Mati/Documents/GitUnity/IAP-2021-Patrones/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'E:/UnityEditor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'E:/UnityEditor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/UnityEditor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56872
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/UnityEditor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/UnityEditor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000892 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 30.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.360 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002999 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.919 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1458 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.6 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1892.
+Total: 1.787489 ms (FindLiveObjects: 0.128601 ms CreateObjectMapping: 0.044469 ms MarkObjects: 1.513161 ms  DeleteObjects: 0.100657 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Patrones/Observer/SinPatron/News.unity
+  artifactKey: Guid(42e2207da508d8e4b9cb6c0b32db87ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Observer/SinPatron/News.unity using Guid(42e2207da508d8e4b9cb6c0b32db87ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748aa3ee9a5a91c6266d4ff6a1b8e89d') in 0.024178 seconds
+  Import took 0.026320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.431174 seconds.
+  path: Assets/Patrones/Observer/SinPatron/NewsManager.cs
+  artifactKey: Guid(6f6bf76c732d250419c4eae71346dfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Observer/SinPatron/NewsManager.cs using Guid(6f6bf76c732d250419c4eae71346dfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d0633d023a1dc31dc288c0db8f8dac8') in 0.124325 seconds
+  Import took 0.126347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 649.864055 seconds.
+  path: Assets/Patrones/Observer/ConPatron/NewsWithObserver.unity
+  artifactKey: Guid(96fc4020bb0424b4384792d62c77679d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Observer/ConPatron/NewsWithObserver.unity using Guid(96fc4020bb0424b4384792d62c77679d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaeddb529f217d60466e0ac344657119') in 0.009885 seconds
+  Import took 0.031884 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002468 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1453 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 66.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1895.
+Total: 1.855996 ms (FindLiveObjects: 0.121089 ms CreateObjectMapping: 0.040263 ms MarkObjects: 1.591283 ms  DeleteObjects: 0.102460 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 725.927634 seconds.
+  path: Assets/Patrones/State/IAP-State.txt
+  artifactKey: Guid(0b1c72d7374eb1349b92897ee1675383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/State/IAP-State.txt using Guid(0b1c72d7374eb1349b92897ee1675383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5559943f4f896075878e3341d60d534a') in 0.020615 seconds
+  Import took 0.023034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.255582 seconds.
+  path: Assets/Patrones/Strategy/StrategyText.unity
+  artifactKey: Guid(67fdfab6d1eea0a48a7bc7f9bf12a6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Strategy/StrategyText.unity using Guid(67fdfab6d1eea0a48a7bc7f9bf12a6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4aa2037555c618534773fdd37cb944') in 0.007708 seconds
+  Import took 0.010551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.262873 seconds.
+  path: Assets/Patrones/State/SinPatron/Smartwatch.unity
+  artifactKey: Guid(f94a90d2518aa6241804b839f748cb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/State/SinPatron/Smartwatch.unity using Guid(f94a90d2518aa6241804b839f748cb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7814aa59c81f521fcefc833f0c2c773') in 0.008260 seconds
+  Import took 0.010353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.213944 seconds.
+  path: Assets/Patrones/State
+  artifactKey: Guid(26b4f847f29d26e44a14abff6f37887e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/State using Guid(26b4f847f29d26e44a14abff6f37887e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad90bb764fa7539dc793b962b662583') in 0.009087 seconds
+  Import took 0.011154 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.913 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1445 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 66.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 2.154362 ms (FindLiveObjects: 0.223549 ms CreateObjectMapping: 0.107568 ms MarkObjects: 1.759245 ms  DeleteObjects: 0.063098 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.141266 seconds.
+  path: Assets/Patrones/Strategy/IAP-Strategy.txt
+  artifactKey: Guid(06dabe6e2b3ee274f8ebb3942bb88c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Strategy/IAP-Strategy.txt using Guid(06dabe6e2b3ee274f8ebb3942bb88c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe38af862eb3da3c27121ccfe0bad252') in 0.016775 seconds
+  Import took 0.018866 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002727 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1445 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 66.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1893.
+Total: 1.790193 ms (FindLiveObjects: 0.174572 ms CreateObjectMapping: 0.042066 ms MarkObjects: 1.496335 ms  DeleteObjects: 0.076019 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.403934 seconds.
+  path: Assets/Patrones/Strategy/LocalMemoryLoadDataBehaviour.cs
+  artifactKey: Guid(05651419a959afe4db0fb4f9dc387a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Strategy/LocalMemoryLoadDataBehaviour.cs using Guid(05651419a959afe4db0fb4f9dc387a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62967559faa6c1380efed209e1b10ea') in 0.012691 seconds
+  Import took 0.015566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001931 seconds.
+  path: Assets/Patrones/Strategy/LocalMemoryLoadDataBehaviour.cs
+  artifactKey: Guid(05651419a959afe4db0fb4f9dc387a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Strategy/LocalMemoryLoadDataBehaviour.cs using Guid(05651419a959afe4db0fb4f9dc387a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62967559faa6c1380efed209e1b10ea') in 0.002900 seconds
+  Import took 0.005621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.484135 seconds.
+  path: Assets/Patrones/Strategy/TxtFileLoadDataBehaviour.cs
+  artifactKey: Guid(375ea67bada77ed4691939b7c5c5da75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Strategy/TxtFileLoadDataBehaviour.cs using Guid(375ea67bada77ed4691939b7c5c5da75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0b6455d0cb716821e6d1bb04b8d0c6') in 0.007395 seconds
+  Import took 0.009960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000713 seconds.
+  path: Assets/Patrones/Strategy/TxtFileLoadDataBehaviour.cs
+  artifactKey: Guid(375ea67bada77ed4691939b7c5c5da75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Strategy/TxtFileLoadDataBehaviour.cs using Guid(375ea67bada77ed4691939b7c5c5da75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0b6455d0cb716821e6d1bb04b8d0c6') in 0.003019 seconds
+  Import took 0.005871 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003390 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1445 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 66.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1896.
+Total: 1.804015 ms (FindLiveObjects: 0.127699 ms CreateObjectMapping: 0.042967 ms MarkObjects: 1.560335 ms  DeleteObjects: 0.071812 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 219.331175 seconds.
+  path: Assets/Patrones/Strategy
+  artifactKey: Guid(b7774319c9d6e134ebf02ca41c4fb355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Patrones/Strategy using Guid(b7774319c9d6e134ebf02ca41c4fb355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7846cbcf17b700d66a5e80611f7b50d') in 0.008895 seconds
+  Import took 0.011187 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
